@@ -1,4 +1,4 @@
-![Afraz on iOS Academy](https://raw.githubusercontent.com/AfrazCodes/AfrazCodes/main/header.png)
+![Afraz on iOS Academy](https://raw.githubusercontent.com/benardamorkoc/benardamorkoc/main/header.jpg)
 
 # Hi, I'm Arda 👋
 
