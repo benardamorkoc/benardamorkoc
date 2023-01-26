@@ -1,4 +1,4 @@
-![Afraz on iOS Academy](https://raw.githubusercontent.com/benardamorkoc/benardamorkoc/main/header.jpg)
+![Voxelan](https://raw.githubusercontent.com/benardamorkoc/benardamorkoc/main/header.jpg)
 
 # Hi, I'm Arda 👋
 
