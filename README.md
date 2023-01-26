@@ -2,11 +2,9 @@
 
 # Hi, I'm Arda 👋
 
-Passionate software engineer with a particular focus on Apple Platforms – iOS/macOS. You can find me creating videos on [iOS Academy](https://www.youtube.com/iOSAcademy), contributing to Open Source here on Github, and frequenting new coffee shops in NYC.
+I'm working on Node.js infrastructure, on the other hand, I'm dealing with c# and java. You can view my products/projects [here](https://voxelan.net)
 
-- 🔭 Currently working on all things Apple – iOS, macOS, watchOS, tvOS
+- 🔭 I'm currently working with things on Discord, Bots etc.
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
-- 💬 Ask me about all things iOS
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/afrazsiddiqui) | [Personal Website](https://afraz.me)
-- ⚡ [Sponsor iOS Academy](mailto:hello@iosacademy.io)
+- 📫 Let's connect – [Discord](https://discord.com) | [Personal Website](https://ardamorkoc.me)
