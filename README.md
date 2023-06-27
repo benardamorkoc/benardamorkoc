@@ -7,4 +7,4 @@ I'm working on Node.js infrastructure, on the other hand, I'm dealing with c# an
 - 🔭 I'm currently working with things on Discord, Bots etc.
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
-- 📫 Let's connect – [Discord](discordapp.com/users/852657341778493460) | [Personal Website](https://ardamorkoc.me)
+- 📫 Let's connect – [Discord](https://discordapp.com/users/852657341778493460) | [Personal Website](https://ardamorkoc.me)
